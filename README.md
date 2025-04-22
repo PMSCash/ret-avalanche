@@ -108,9 +108,9 @@ Institutional Clients: 10 onboarded.
 
 8. Team Background & Skills
 
-James Mundell – Co‑Founder & Blockchain Architect (10+ years trading & Solidity).
+EJL – Founder & Blockchain Architect (7+ years trading & Solidity).
 
-Alice Nguyen – Co‑Founder & Real Estate Strategist (8 years property finance).
+Alicia Dasta – Co‑Founder & Real Estate Strategist (8 years property finance).
 
 Dev Team – 4 full‑stack engineers with DeFi & Web3 expertise.
 
